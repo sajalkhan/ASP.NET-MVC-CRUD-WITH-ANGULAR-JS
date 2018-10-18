@@ -1,0 +1,57 @@
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\ApplicationInsights.config
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\csc.exe
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\vbc.exe
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\AngularJs Practice.dll.config
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\AngularJs Practice.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\AngularJs Practice.pdb
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Antlr3.Runtime.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\EntityFramework.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.Web.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Helpers.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Optimization.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Razor.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.WebPages.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\WebGrease.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\EntityFramework.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.Web.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Helpers.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Optimization.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.Razor.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.WebPages.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Antlr3.Runtime.pdb
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\bin\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\obj\Debug\AngularJs Practice.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\obj\Debug\AngularJs Practice.dll
+C:\Users\User\documents\visual studio 2015\Projects\AngularJs Practice\AngularJs Practice\obj\Debug\AngularJs Practice.pdb
