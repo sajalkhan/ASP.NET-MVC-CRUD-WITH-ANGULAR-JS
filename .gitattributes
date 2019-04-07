@@ -1,4 +1,4 @@
-*.C# linguist-detectable=true
+*.Cs linguist-detectable=c#
 *.js linguist-detectable=false
 *.java linguist-detectable=false
 *.html linguist-detectable=false
